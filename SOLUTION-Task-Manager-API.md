@@ -1,4 +1,4 @@
-## Solution-Sparshi-Awasthi
+## Solution
 
 # Task Manager API (Django REST Framework)
 
